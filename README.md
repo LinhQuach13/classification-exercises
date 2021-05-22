@@ -2,7 +2,7 @@
 Repository for Classification Exercises
 
 ## Table of Contents
-* [Language Used](#technologies-used)
+* [Language](#technologies-used)
 * [Exercises](#exercises)
 * [Modeling](#modeling)
 * [Setup](#setup)
@@ -10,7 +10,7 @@ Repository for Classification Exercises
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 
-## Language Used
+## Language 
 Python
 
 ## Exercises:
