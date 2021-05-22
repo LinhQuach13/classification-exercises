@@ -5,10 +5,6 @@ Repository for Classification Exercises
 * [Language](#technologies-used)
 * [Exercises](#exercises)
 * [Modeling](#modeling)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 
 ## Language 
 Python
