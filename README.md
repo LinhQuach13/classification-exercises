@@ -2,7 +2,7 @@
 Repository for Classification Exercises
 
 ## Table of Contents
-* [Language](#technologies-used)
+* [Language](#language)
 * [Exercises](#exercises)
 * [Modeling](#modeling)
 
